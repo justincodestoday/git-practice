@@ -29,9 +29,9 @@ Something about this project
 | Peter         | Parker    | New York City | USA       |
 | Kamala        | Khan      | New Jersey    | USA       |
 
-**This is a bold text**
-*Italicised text*
-~~This is a striked out text~~
+**This is a bold text**  
+*Italicised text*  
+~~This is a striked out text~~  
 log<sub>2</sub>(8) = 3
 O(n<sup>2</sup>)
 
